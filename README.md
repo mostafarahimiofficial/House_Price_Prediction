@@ -14,11 +14,17 @@ Target:
 
 house-price-regression/
 │
+
 ├── data/
+
 ├── notebooks/
+
 ├── src/
+
 ├── requirements.txt
+
 └── README.md
+
 
 
 ## 🚀 How to Run
